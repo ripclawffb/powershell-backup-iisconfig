@@ -1,3 +1,5 @@
+Import-Module WebAdministration
+
 $Sites = Get-Website
 $TimeStamp = Get-date -Format "MM-dd-yy-HHmmss"
 $BackupPath = "C:\Temp"
