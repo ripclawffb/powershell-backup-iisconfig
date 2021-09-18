@@ -28,6 +28,6 @@ The files will be copied to the C:\Temp path with a timestamp in the filename of
 
 ## Usage
 * Edit the script and set your desired Backup Path
-* Run the PowerShell script `.\Backup-IISConfiguration.ps1`
+* Run the PowerShell script `.\Backup-IISConfig.ps1`
 
   
